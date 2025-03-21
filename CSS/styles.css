@@ -11,6 +11,8 @@
 
 .container-titulo h1 {
     font-family: 'Times New Roman', Times, serif;
-    font-size: 3em;
+    font-size: 4em;
     padding-top: 30px;
+    font-weight: 400;
+    text-shadow: 1px 1px 3px;
 }
