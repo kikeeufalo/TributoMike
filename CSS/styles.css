@@ -18,8 +18,29 @@
 }
 
 .container-titulo p {
-    font-family: arial;
+    font-family: 'Times New Roman', Times, serif;
     font-weight: normal;
-    font-size: 1.02em;
-    padding: 10px 0 0 3px;
+    font-size: 1.01em;
+    padding: 10px 0 0 5px;
+}
+
+
+/* -------------------------------------------------- */
+
+
+.container-imagem {
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+
+.container-imagem img {
+    width: 95%;
+    height: auto;
+}
+
+.container-imagem p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.009em;
+
 }
