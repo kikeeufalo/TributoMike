@@ -1,5 +1,17 @@
 .container {
     width: 100%;
     height: auto;
-    background-color: rgb(240, 240, 240);
+    background-color: rgb(100, 5, 5);
+}
+
+.container-titulo {
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+
+.container-titulo h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3em;
+    padding-top: 30px;
 }
