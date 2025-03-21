@@ -16,3 +16,10 @@
     font-weight: 400;
     text-shadow: 1px 1px 3px;
 }
+
+.container-titulo p {
+    font-family: arial;
+    font-weight: normal;
+    font-size: 1.02em;
+    padding: 10px 0 0 3px;
+}
