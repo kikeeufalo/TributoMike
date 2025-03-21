@@ -42,5 +42,20 @@
 .container-imagem p {
     font-family: 'Times New Roman', Times, serif;
     font-size: 1.009em;
+}
 
+
+/* --------------------------------------------- */
+
+
+.container-linha-tempo {
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+
+.container-linha-tempo h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size: 1.7em;
 }
