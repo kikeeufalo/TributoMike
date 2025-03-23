@@ -20,12 +20,15 @@
 .container-titulo p {
     font-family: 'Times New Roman', Times, serif;
     font-weight: normal;
-    font-size: 1.01em;
+    font-size: 1.09em;
     padding: 10px 0 0 5px;
 }
 
 
+
 /* -------------------------------------------------- */
+
+
 
 .container-imagem {
     text-align: center;
@@ -40,11 +43,16 @@
 
 .container-imagem p {
     font-family: 'Times New Roman', Times, serif;
-    font-size: 1.009em;
+    font-size: 1.09em;
+    padding: 0 40px;
 }
 
 
+
+
 /* --------------------------------------------- */
+
+
 
 
 .container-linha-tempo {
@@ -80,7 +88,7 @@
     width: 100%;
     list-style: none;
     padding: 10px 0;
-    font-size: 16px;
+    font-size: 1.2em;
 }
 
 .container-linha-tempo li span {
@@ -127,8 +135,10 @@
 .frase-rodape a {
     text-decoration: none;
     color: rgba(0, 0, 255, 0.884);
+    transition: 1s ease;
 }
 
 .frase-rodape a:hover {
-
+    color: rgb(3, 3, 134);
+    text-shadow: 0 0 2px #00d9ffb6;
 }
