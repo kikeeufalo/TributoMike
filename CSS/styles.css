@@ -64,10 +64,14 @@
 
 
 .container-linha-tempo ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     background-color: red;
 }
 
 .container-linha-tempo ul li {
     background-color: yellow;
+    text-align: left;
     width: 95%;
 }
