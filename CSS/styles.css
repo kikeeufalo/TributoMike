@@ -61,3 +61,13 @@
     padding: 10px;
     margin: 15px 0px;
 }
+
+
+.container-linha-tempo ul {
+    background-color: red;
+}
+
+.container-linha-tempo ul li {
+    background-color: yellow;
+    width: 95%;
+}
