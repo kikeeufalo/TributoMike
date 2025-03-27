@@ -1,7 +1,10 @@
+body {
+    background-color: #ebe7e0;
+}
+
 .container {
     width: 100%;
     height: auto;
-    background-color: #ebe7e0;
 }
 
 .container-titulo {
